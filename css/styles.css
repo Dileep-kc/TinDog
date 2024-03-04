@@ -1,0 +1,155 @@
+#title{
+  background-color: #ADBC9F;
+}
+.navbar{
+  background-color:  #ADBC9F;
+}
+.navbar-brand{
+  font-size: 35px;
+}
+body{
+  font-family: "ubuntu";
+}
+.prices{
+  display: flex;
+flex-direction: row;
+gap:80px;
+justify-content:center;
+height:350px;
+}
+
+.navbar-nav{
+  display: flex;
+  flex-direction: row;
+  gap:20px;
+  font-size: 25px;
+}
+.navbar-brand{
+  display: flex;
+  flex-direction: column;
+
+}
+h1{
+  font-family:
+}
+
+
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navlogo{
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+}
+.fa-solid{
+  height: 20px;
+  width: 20px;
+}
+
+.dogimage{
+  height: 500px;
+  width:350px;
+  border-radius: 4px;
+  transform: rotate(18deg);
+}
+.dogimage:hover.scale{
+  transform: scale(30%);
+
+}
+
+
+#features{
+  background-color: #D4E7C5;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+
+
+}
+p{
+  color: black;
+  text-align: center;
+}
+
+
+#testimonials{
+  background-color: #E1F0DA;
+  padding: 3% 15%;
+ font-family: "ubuntu";
+
+
+
+
+}
+#press{
+  background-color: #D4E7C5;
+  text-align: center;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  display: flex;
+  flex-direction: row;
+  gap:10px;
+}
+.press-logo
+{
+  width:18%;
+  margin: 20px 20px 20px 20px;
+
+}
+h2{
+  font-size: 2rem;
+}
+.dogimage2{
+  height: 200px;
+  width:200px;
+  border-radius: 100%;
+  margin-left:200px;
+
+
+
+
+
+
+}
+.testimonial-image{
+  height: 200px;
+  width:200px;
+  border-radius: 100%;
+  margin-left: 200px;
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-link {
+  font-weight: bold;
+}
+}
+/* .dogimage2{
+  Border-image:fill 0 linear-gradient(#0003,#000)
+} */
+.dogimage2:hover.scale{
+  transform: scale(1.5,1.5);
+
+
+.images222{
+  background-color: #E5E1DA;
+}
+.icon1
+{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fa-greater-than{
+  margin-left: 80px;
+}
+.icon.hover{
+  color:white;
+}
